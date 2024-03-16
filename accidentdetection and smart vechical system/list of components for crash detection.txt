@@ -1,0 +1,10 @@
+Components
+
+1.Arduino uno
+2.ADXL-335
+3.GSM SIM800l
+4.GPS Neo-6m
+5.LM2596 Step Conveter
+6.Zero PCB
+7.vibration detection sensor
+8.sim card
