@@ -6,5 +6,5 @@ Components
 4.GPS Neo-6m
 5.LM2596 Step Conveter
 6.Zero PCB
-7.vibration detection sensor
+7.vibration detection sensor (sw420)
 8.sim card
